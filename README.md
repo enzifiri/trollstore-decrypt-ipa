@@ -14,7 +14,7 @@ Farm cihazlarının kurulumu için gerekli temel yazılımlar:
 | Araç | Kaynak / Link | Amaç |
 | :--- | :--- | :--- |
 | **TrollStore** | [GitHub Repo](https://github.com/opa334/TrollStore) | Kalıcı uygulama yükleyici |
-| **TrollDecryptor** | [GitHub Releases](https://github.com/wh1te4ever/TrollDecryptor/releases) | App Store uygulamalarını kırmak için |
+| **TrollDecryptor** | [GitHub Releases](https://github.com/donato-fiore/TrollDecrypt/releases) | App Store uygulamalarını kırmak için |
 | **iproxy** | `brew install libimobiledevice` | USB üzerinden SSH bağlantısı |
 | **NewTerm 3** | Sileo (Chariz Repo) | Cihaz içi terminal erişimi |
 
